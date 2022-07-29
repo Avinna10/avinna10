@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinna Maharjan</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 - 🔭 I’m currently working on [personal portfolio website]
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **mhrznavinna401@gmail.com**
 
