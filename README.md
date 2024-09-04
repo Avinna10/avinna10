@@ -16,7 +16,7 @@
 <table>
   <tr>
 	  <td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinna10&show_icons=true&locale=en&theme=monokai" alt="avinna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-1crukq1a6-avinna-maharjans-projects.vercel.app/api?username=avinna10&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=monokai" alt="avinna" /></p>
 <quote>Provided by <a href="https://github-readme-stats.vercel.app/">GitHub Readme Stats</a></quote>
 	  </td>
   </tr>
